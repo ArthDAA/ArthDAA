@@ -1,23 +1,36 @@
-# 👋 Salut, je suis Arthus !
-
-🎓 Étudiant à **42 Nice**  
-💻 Projet actuel : [**Accent Flow**](https://accent-flow-3c5ee4b2.base44.app) – une nouvelle approche de la saisie des accents et symboles.  
-🌱 Débutant en **C**, en apprentissage du **COBOL**.    
-
+# Arthus De Assis--Allix
+ 
+Étudiant à l'école 42 Nice, en recherche d'une alternance en informatique.
+ 
+## Ce que je fais
+ 
+- **C et Python** à 42 : bibliothèques, algorithmes, programmation orientée objet, typage strict, validation de données.
+- **Linux et maintenance** : installation de systèmes, dépannage, serveur distant en SSH.
+- **Conception de produits** : je rédige les spécifications et l'architecture, et je m'appuie sur des agents IA pour une partie de l'implémentation, avec des tests pour valider.
+## Dépôts
+ 
+- [`42_cursus`](https://github.com/ArthDAA/42_cursus) : libft, ft_printf, get_next_line, push_swap, modules Python, call me maybe, maze.
+## Projet en cours
+ 
+**Baudot** : une norme pour taper des caractères accentués et des symboles sans changer de disposition de clavier. Firmware QMK en C et application Windows en Rust.
+Dépôt : [`baudot`](https://github.com/ArthDAA/baudot)
+ 
 ---
-
-## 🇬🇧 English
-# 👋 Hi, I'm Arthus !
-
-🎓 Student at **42 Nice**  
-💻 Current project: [**Accent Flow**](https://accent-flow-3c5ee4b2.base44.app) – a new approach to typing accents and symbols.  
-🌱 Beginner in **C**, learning **COBOL**.  
-
----
-
-## 🇵🇹 Português
-# 👋 Olá, eu sou Arthus !
-
-🎓 Estudante em **42 Nice**  
-💻 Projeto atual: [**Accent Flow**](https://accent-flow-3c5ee4b2.base44.app) – uma nova abordagem para digitar acentos e símbolos.  
-🌱 Iniciante em **C**, aprendendo **COBOL**.  
+ 
+## English
+ 
+42 Nice student, looking for a work-study position (alternance) in IT.
+ 
+**What I do**
+ 
+- **C and Python** at 42: libraries, algorithms, object-oriented programming, strict typing, data validation.
+- **Linux and maintenance**: operating system installs, troubleshooting, remote server over SSH.
+- **Product design**: I write the specifications and architecture, and use AI agents for part of the implementation, with tests to validate the result.
+**Repositories**
+ 
+- [`42_cursus`](https://github.com/ArthDAA/42_cursus): libft, ft_printf, get_next_line, push_swap, Python modules, call me maybe, maze.
+**Current project**
+ 
+**Baudot**: a standard for typing accented characters and symbols without switching keyboard layouts. QMK firmware in C and a Windows application in Rust.
+Repository: [`baudot`](https://github.com/ArthDAA/baudot)
+ 

@@ -13,7 +13,7 @@
 ## Projet en cours
  
 **Baudot** : une norme pour taper des caractères accentués et des symboles sans changer de disposition de clavier. Firmware QMK en C et application Windows en Rust.
-Dépôt : [`baudot`](https://github.com/ArthDAA/baudot)
+Plus d'informations par mail: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
  
 ---
  

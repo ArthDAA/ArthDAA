@@ -32,5 +32,5 @@ Plus d'informations par mail: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
 **Current project**
  
 **Baudot**: a standard for typing accented characters and symbols without switching keyboard layouts. QMK firmware in C and a Windows application in Rust.
-Repository: [`baudot`](https://github.com/ArthDAA/baudot)
+More information by email: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
  

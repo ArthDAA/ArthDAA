@@ -13,6 +13,7 @@
 ## Projet en cours
  
 **Baudot** : une norme pour taper des caractères accentués et des symboles sans changer de disposition de clavier. Firmware QMK en C et application Windows en Rust.
+
 Plus d'informations par mail: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
  
 ---
@@ -32,5 +33,6 @@ Plus d'informations par mail: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
 **Current project**
  
 **Baudot**: a standard for typing accented characters and symbols without switching keyboard layouts. QMK firmware in C and a Windows application in Rust.
+
 More information by email: [arthus@lockfree.fr](mailto:arthus@lockfree.fr)
  
